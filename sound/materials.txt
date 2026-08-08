@@ -1,0 +1,23 @@
+//ze_summer_beach__2024
+
+W sm_caja1
+W sm_caja2
+W sm_madera2
+W sm_puert3
+W sm_puert8
+W sm_puert9
+M sm_elev1
+M sm_elev2
+M sm_elev2a
+M sm_elev5
+M sm_elev6
+M sm_elev6a
+M sm_elev8b
+M sm_puert1
+Y sm_lum1
+Y sm_lum2
+Y sm_lum3
+T sm_elev9
+T sm_suelo5
+T sm_suelo6
+X sm_suelo7
