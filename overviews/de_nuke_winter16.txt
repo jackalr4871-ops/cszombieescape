@@ -1,0 +1,14 @@
+// overview description file for de_nuke_winter16.bsp
+
+global 
+{
+	ZOOM	1.18
+	ORIGIN	320 	-912	-312
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_nuke_winter16.bmp"
+	HEIGHT	-769
+}
