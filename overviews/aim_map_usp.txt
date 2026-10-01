@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	3.80
+	ORIGIN	718	200	-1
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_map_usp.bmp"
+	HEIGHT	-1
+}
